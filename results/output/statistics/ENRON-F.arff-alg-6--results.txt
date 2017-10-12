@@ -1,0 +1,16 @@
+Bagging for evolving data streams using ADWIN.
+Exact Match = 0.068
+Hamming Score = 0.944
+Example-Based Accuracy = 0.289
+Example-Based Precision = 0.614
+Example-Based Recall = 0.306
+Example-Based F-Score = 0.408
+Micro-Averaged Precision = 0.638
+Micro-Averaged Recall = 0.286
+Micro-Averaged F1-Score = 0.395
+Macro-Averaged Precision = 0.094
+Macro-Averaged Recall = 0.046
+Macro-Averaged F1-Score = 0.062
+Time: 774703 ms  
+
+Size of the model: 646602008 bytes

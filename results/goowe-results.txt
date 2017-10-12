@@ -1,0 +1,1878 @@
+Scene.arff
+2407
+6
+Execution starts for the dataset Scene.arff
+with NumInstances = 2407 and numLabels = 6
+for the GOOWE number 1
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 4481152
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 6590056
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 8299664
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 10803240
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 12773360
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 14626248
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 16470672
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 18244984
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 20639488
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 22528328
+Change model 1 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 22940280
+Change model 4 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 23460648
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 23133384
+Change model 7 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 23660776
+Change model 4 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 23425352
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 23269944
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 22987400
+Change model 1 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 22622440
+Change model 4 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 23022696
+Change model 6 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 22695432
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0)
+Performance Measurements:
+total examples: 2286
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records89.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records89_short.csv
+Window size: 120
+Number of windows: 19
+Incremental arraylist size: 2286
+Exact Match = 0.279
+Hamming Score = 0.773
+Example-Based Accuracy = 0.455
+Example-Based Precision = 0.469
+Example-Based Recall = 0.649
+Example-Based F-Score = 0.544
+Micro-Averaged Precision = 0.413
+Micro-Averaged Recall = 0.639
+Micro-Averaged F1-Score = 0.502
+Macro-Averaged Precision = 0.426
+Macro-Averaged Recall = 0.641
+Macro-Averaged F1-Score = 0.512
+
+Time: 50676 ms  
+
+
+Execution starts for the dataset Scene.arff
+with NumInstances = 2407 and numLabels = 6
+for the GOOWE number 2
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 4466672
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 6542648
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 8413824
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 11352032
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 13327384
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 15702936
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 17738776
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 19605480
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 22433408
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 24634472
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 25378640
+Change model 3 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 26027112
+Change model 4 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 25273432
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 26007768
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 25691896
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 25494008
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 25468024
+Change model 1 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 24612912
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 24588016
+Change model 6 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 24172912
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0)
+Performance Measurements:
+total examples: 2286
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records90.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records90_short.csv
+Window size: 120
+Number of windows: 19
+Incremental arraylist size: 2286
+Exact Match = 0.283
+Hamming Score = 0.778
+Example-Based Accuracy = 0.422
+Example-Based Precision = 0.436
+Example-Based Recall = 0.563
+Example-Based F-Score = 0.492
+Micro-Averaged Precision = 0.411
+Micro-Averaged Recall = 0.552
+Micro-Averaged F1-Score = 0.471
+Macro-Averaged Precision = 0.417
+Macro-Averaged Recall = 0.548
+Macro-Averaged F1-Score = 0.474
+
+Time: 55192 ms  
+
+
+Execution starts for the dataset Scene.arff
+with NumInstances = 2407 and numLabels = 6
+for the GOOWE number 3
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 2784136
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 2922024
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 3231272
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 3417864
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 3560552
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 3705960
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 3852480
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 3978168
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 4128480
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 4281616
+Change model 6 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 4324096
+Change model 4 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 4369112
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 4539976
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 4390824
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 4390936
+Change model 1 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 4390928
+Change model 4 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 4345904
+Change model 4 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 4322192
+Change model 7 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 4345904
+Change model 4 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 4345904
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable)
+Performance Measurements:
+total examples: 2286
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records91.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records91_short.csv
+Window size: 120
+Number of windows: 19
+Incremental arraylist size: 2286
+Exact Match = 0.234
+Hamming Score = 0.779
+Example-Based Accuracy = 0.36
+Example-Based Precision = 0.376
+Example-Based Recall = 0.485
+Example-Based F-Score = 0.424
+Micro-Averaged Precision = 0.4
+Micro-Averaged Recall = 0.481
+Micro-Averaged F1-Score = 0.437
+Macro-Averaged Precision = 0.418
+Macro-Averaged Recall = 0.48
+Macro-Averaged F1-Score = 0.447
+
+Time: 10512 ms  
+
+
+Execution starts for the dataset Scene.arff
+with NumInstances = 2407 and numLabels = 6
+for the GOOWE number 4
+Size of GOOWE with base classifier: ISOUP Tree MTR : 13811728
+Size of GOOWE with base classifier: ISOUP Tree MTR : 25759544
+Size of GOOWE with base classifier: ISOUP Tree MTR : 37702128
+Size of GOOWE with base classifier: ISOUP Tree MTR : 49710808
+Size of GOOWE with base classifier: ISOUP Tree MTR : 61769552
+Size of GOOWE with base classifier: ISOUP Tree MTR : 73878408
+Size of GOOWE with base classifier: ISOUP Tree MTR : 85967056
+Size of GOOWE with base classifier: ISOUP Tree MTR : 98091992
+Size of GOOWE with base classifier: ISOUP Tree MTR : 110256912
+Size of GOOWE with base classifier: ISOUP Tree MTR : 122403544
+Change model 1 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 122475640
+Change model 4 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 122567656
+Change model 1 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 122671192
+Change model 6 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 122575000
+Change model 2 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 122541448
+Change model 7 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 122513368
+Change model 2 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 122667016
+Change model 7 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 122772280
+Change model 9 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 122739016
+Change model 3 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 122695384
+GOOWE with base classifier: ISOUP Tree MTR
+Performance Measurements:
+total examples: 2286
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records92.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records92_short.csv
+Window size: 120
+Number of windows: 19
+Incremental arraylist size: 2286
+Exact Match = 0.094
+Hamming Score = 0.689
+Example-Based Accuracy = 0.293
+Example-Based Precision = 0.302
+Example-Based Recall = 0.513
+Example-Based F-Score = 0.38
+Micro-Averaged Precision = 0.289
+Micro-Averaged Recall = 0.508
+Micro-Averaged F1-Score = 0.369
+Macro-Averaged Precision = 0.29
+Macro-Averaged Recall = 0.506
+Macro-Averaged F1-Score = 0.369
+
+Time: 35548 ms  
+
+
+Yeast.arff
+2417
+14
+Execution starts for the dataset Yeast.arff
+with NumInstances = 2417 and numLabels = 14
+for the GOOWE number 1
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 2730312
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 4439912
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 6198408
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 7940784
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 9680808
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 11398088
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 13164264
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 14888696
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 16658712
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 18412608
+Change model 1 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 18433728
+Change model 5 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 18433728
+Change model 7 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 18433728
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 18408104
+Change model 4 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 18382480
+Change model 6 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 18430416
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 18433728
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 18433728
+Change model 7 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 18433728
+Change model 1 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 18433728
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0)
+Performance Measurements:
+total examples: 2296
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records93.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records93_short.csv
+Window size: 120
+Number of windows: 19
+Incremental arraylist size: 2296
+Exact Match = 0.121
+Hamming Score = 0.77
+Example-Based Accuracy = 0.51
+Example-Based Precision = 0.622
+Example-Based Recall = 0.684
+Example-Based F-Score = 0.651
+Micro-Averaged Precision = 0.609
+Micro-Averaged Recall = 0.672
+Micro-Averaged F1-Score = 0.639
+Macro-Averaged Precision = 0.391
+Macro-Averaged Recall = 0.426
+Macro-Averaged F1-Score = 0.408
+
+Time: 25616 ms  
+
+
+Execution starts for the dataset Yeast.arff
+with NumInstances = 2417 and numLabels = 14
+for the GOOWE number 2
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 2891704
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 4785192
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 6938408
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 9125200
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 11484336
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 14091528
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 16404816
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 18653400
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 21027872
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 23705120
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 23821456
+Change model 6 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 23768560
+Change model 1 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 23632240
+Change model 3 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 23832224
+Change model 4 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 23642792
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 23923640
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 23953344
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 24565784
+Change model 1 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 24929952
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 24231424
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0)
+Performance Measurements:
+total examples: 2296
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records94.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records94_short.csv
+Window size: 120
+Number of windows: 19
+Incremental arraylist size: 2296
+Exact Match = 0.122
+Hamming Score = 0.774
+Example-Based Accuracy = 0.513
+Example-Based Precision = 0.626
+Example-Based Recall = 0.682
+Example-Based F-Score = 0.653
+Micro-Averaged Precision = 0.618
+Micro-Averaged Recall = 0.67
+Micro-Averaged F1-Score = 0.643
+Macro-Averaged Precision = 0.388
+Macro-Averaged Recall = 0.424
+Macro-Averaged F1-Score = 0.406
+
+Time: 29398 ms  
+
+
+Execution starts for the dataset Yeast.arff
+with NumInstances = 2417 and numLabels = 14
+for the GOOWE number 3
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 1099600
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 1210984
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 1307528
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 1406928
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 1491296
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 1594592
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 1707560
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 1798624
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 1915120
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 2018416
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 2047656
+Change model 6 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 2031296
+Change model 5 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 2023688
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 2047480
+Change model 3 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 2039880
+Change model 1 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 2024128
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 2016840
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 2017200
+Change model 5 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 2008760
+Change model 1 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 2017128
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable)
+Performance Measurements:
+total examples: 2296
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records95.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records95_short.csv
+Window size: 120
+Number of windows: 19
+Incremental arraylist size: 2296
+Exact Match = 0.128
+Hamming Score = 0.754
+Example-Based Accuracy = 0.5
+Example-Based Precision = 0.596
+Example-Based Recall = 0.692
+Example-Based F-Score = 0.64
+Micro-Averaged Precision = 0.58
+Micro-Averaged Recall = 0.676
+Micro-Averaged F1-Score = 0.624
+Macro-Averaged Precision = 0.464
+Macro-Averaged Recall = 0.418
+Macro-Averaged F1-Score = 0.44
+
+Time: 7061 ms  
+
+
+Execution starts for the dataset Yeast.arff
+with NumInstances = 2417 and numLabels = 14
+for the GOOWE number 4
+Size of GOOWE with base classifier: ISOUP Tree MTR : 9811496
+Size of GOOWE with base classifier: ISOUP Tree MTR : 19056824
+Size of GOOWE with base classifier: ISOUP Tree MTR : 25868080
+Size of GOOWE with base classifier: ISOUP Tree MTR : 39356440
+Size of GOOWE with base classifier: ISOUP Tree MTR : 41532192
+Size of GOOWE with base classifier: ISOUP Tree MTR : 66725128
+Size of GOOWE with base classifier: ISOUP Tree MTR : 65816024
+Size of GOOWE with base classifier: ISOUP Tree MTR : 103996040
+Size of GOOWE with base classifier: ISOUP Tree MTR : 120403960
+Size of GOOWE with base classifier: ISOUP Tree MTR : 134626768
+Change model 7 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 141497416
+Change model 6 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 134740784
+Change model 3 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 137071472
+Change model 9 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 154940496
+Change model 9 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 166304632
+Change model 8 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 155441864
+Change model 5 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 153598824
+Change model 3 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 162398400
+Change model 7 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 175210864
+Change model 5 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 192666856
+GOOWE with base classifier: ISOUP Tree MTR
+Performance Measurements:
+total examples: 2296
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records96.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records96_short.csv
+Window size: 120
+Number of windows: 19
+Incremental arraylist size: 2296
+Exact Match = 0.03
+Hamming Score = 0.718
+Example-Based Accuracy = 0.452
+Example-Based Precision = 0.534
+Example-Based Recall = 0.703
+Example-Based F-Score = 0.607
+Micro-Averaged Precision = 0.526
+Micro-Averaged Recall = 0.69
+Micro-Averaged F1-Score = 0.597
+Macro-Averaged Precision = 0.314
+Macro-Averaged Recall = 0.423
+Macro-Averaged F1-Score = 0.361
+
+Time: 37496 ms  
+
+
+Music.arff
+592
+6
+Execution starts for the dataset Music.arff
+with NumInstances = 592 and numLabels = 6
+for the GOOWE number 1
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 826944
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 1329416
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 1832120
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 2335520
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 2839152
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 3357208
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 3875496
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 4394480
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 4913696
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 5433608
+Change model 3 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 5438712
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 5438712
+Change model 6 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 5438712
+Change model 7 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 5438712
+Change model 1 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 5438712
+Change model 3 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 5438712
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 5438712
+Change model 6 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 5438712
+Change model 5 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 5438712
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 5452440
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0)
+Performance Measurements:
+total examples: 562
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records97.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records97_short.csv
+Window size: 29
+Number of windows: 19
+Incremental arraylist size: 562
+Exact Match = 0.187
+Hamming Score = 0.742
+Example-Based Accuracy = 0.505
+Example-Based Precision = 0.579
+Example-Based Recall = 0.712
+Example-Based F-Score = 0.639
+Micro-Averaged Precision = 0.571
+Micro-Averaged Recall = 0.705
+Micro-Averaged F1-Score = 0.631
+Macro-Averaged Precision = 0.556
+Macro-Averaged Recall = 0.69
+Macro-Averaged F1-Score = 0.616
+
+Time: 3609 ms  
+
+
+Execution starts for the dataset Music.arff
+with NumInstances = 592 and numLabels = 6
+for the GOOWE number 2
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 837568
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 1350280
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 1863480
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 2377376
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 2891504
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 3420456
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 3949768
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 4479648
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 5009760
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 5540888
+Change model 4 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 5547272
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 5546760
+Change model 6 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 5547528
+Change model 7 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 5547400
+Change model 5 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 5547208
+Change model 3 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 5546888
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 5546952
+Change model 4 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 5546632
+Change model 1 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 5546888
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 5561336
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0)
+Performance Measurements:
+total examples: 562
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records98.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records98_short.csv
+Window size: 29
+Number of windows: 19
+Incremental arraylist size: 562
+Exact Match = 0.208
+Hamming Score = 0.75
+Example-Based Accuracy = 0.511
+Example-Based Precision = 0.593
+Example-Based Recall = 0.695
+Example-Based F-Score = 0.64
+Micro-Averaged Precision = 0.587
+Micro-Averaged Recall = 0.687
+Micro-Averaged F1-Score = 0.633
+Macro-Averaged Precision = 0.567
+Macro-Averaged Recall = 0.67
+Macro-Averaged F1-Score = 0.614
+
+Time: 3747 ms  
+
+
+Execution starts for the dataset Music.arff
+with NumInstances = 592 and numLabels = 6
+for the GOOWE number 3
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 374368
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 442896
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 512384
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 586656
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 661824
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 732600
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 803104
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 880400
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 957592
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 1029944
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 1041168
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 1041736
+Change model 6 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 1036328
+Change model 4 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 1041528
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 1042328
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 1046280
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 1041376
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 1041424
+Change model 3 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 1041376
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 1041480
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable)
+Performance Measurements:
+total examples: 562
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records99.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records99_short.csv
+Window size: 29
+Number of windows: 19
+Incremental arraylist size: 562
+Exact Match = 0.11
+Hamming Score = 0.688
+Example-Based Accuracy = 0.261
+Example-Based Precision = 0.303
+Example-Based Recall = 0.369
+Example-Based F-Score = 0.332
+Micro-Averaged Precision = 0.502
+Micro-Averaged Recall = 0.374
+Micro-Averaged F1-Score = 0.429
+Macro-Averaged Precision = 0.5
+Macro-Averaged Recall = 0.359
+Macro-Averaged F1-Score = 0.418
+
+Time: 1645 ms  
+
+
+Execution starts for the dataset Music.arff
+with NumInstances = 592 and numLabels = 6
+for the GOOWE number 4
+Size of GOOWE with base classifier: ISOUP Tree MTR : 1632792
+Size of GOOWE with base classifier: ISOUP Tree MTR : 4271448
+Size of GOOWE with base classifier: ISOUP Tree MTR : 6988096
+Size of GOOWE with base classifier: ISOUP Tree MTR : 9749648
+Size of GOOWE with base classifier: ISOUP Tree MTR : 12551392
+Size of GOOWE with base classifier: ISOUP Tree MTR : 15393400
+Size of GOOWE with base classifier: ISOUP Tree MTR : 18277256
+Size of GOOWE with base classifier: ISOUP Tree MTR : 21140856
+Size of GOOWE with base classifier: ISOUP Tree MTR : 24026936
+Size of GOOWE with base classifier: ISOUP Tree MTR : 26922856
+Change model 0 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 26955176
+Change model 4 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 27001328
+Change model 2 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 26981600
+Change model 5 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 26991824
+Change model 3 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 26977496
+Change model 0 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 27010760
+Change model 6 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 27016520
+Change model 2 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 27038984
+Change model 9 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 27034808
+Change model 6 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 27172008
+GOOWE with base classifier: ISOUP Tree MTR
+Performance Measurements:
+total examples: 562
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records100.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records100_short.csv
+Window size: 29
+Number of windows: 19
+Incremental arraylist size: 562
+Exact Match = 0.084
+Hamming Score = 0.648
+Example-Based Accuracy = 0.409
+Example-Based Precision = 0.474
+Example-Based Recall = 0.689
+Example-Based F-Score = 0.562
+Micro-Averaged Precision = 0.458
+Micro-Averaged Recall = 0.674
+Micro-Averaged F1-Score = 0.546
+Macro-Averaged Precision = 0.453
+Macro-Averaged Recall = 0.647
+Macro-Averaged F1-Score = 0.533
+
+Time: 5970 ms  
+
+
+OHSUMED-F.arff
+13529
+23
+Execution starts for the dataset OHSUMED-F.arff
+with NumInstances = 13529 and numLabels = 23
+for the GOOWE number 1
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 67569856
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 96189152
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 123823440
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 152501272
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 223972128
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 300574448
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 377166904
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 463654352
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 541853128
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 645281600
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 738986080
+Change model 7 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 790830568
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 843878048
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 898408656
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 961472040
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 1080159960
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 1147035120
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 1191411280
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 1240078000
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 1286774816
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0)
+Performance Measurements:
+total examples: 12852
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records101.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records101_short.csv
+Window size: 676
+Number of windows: 19
+Incremental arraylist size: 12852
+Exact Match = 4.6685340802987864E-4
+Hamming Score = 0.728
+Example-Based Accuracy = 0.18
+Example-Based Precision = 0.188
+Example-Based Recall = 0.77
+Example-Based F-Score = 0.302
+Micro-Averaged Precision = 0.176
+Micro-Averaged Recall = 0.75
+Micro-Averaged F1-Score = 0.285
+Macro-Averaged Precision = 0.245
+Macro-Averaged Recall = 0.51
+Macro-Averaged F1-Score = 0.331
+
+Time: 2084698 ms  
+
+
+Execution starts for the dataset OHSUMED-F.arff
+with NumInstances = 13529 and numLabels = 23
+for the GOOWE number 2
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 67761488
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 96579856
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 124409432
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 153290848
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 225357784
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 302625536
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 379900648
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 467174248
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 546079200
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 650411504
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 742874840
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 746685480
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 799639248
+Change model 3 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 807802776
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 855032864
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 874097224
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 962920296
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 1039231704
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 1069754328
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 1156063264
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0)
+Performance Measurements:
+total examples: 12852
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records102.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records102_short.csv
+Number of windows: 19
+Exact Match = 0.135
+Hamming Score = 0.933
+Example-Based Accuracy = 0.265
+Example-Based Precision = 0.345
+Example-Based Recall = 0.328
+Example-Based F-Score = 0.336
+Micro-Averaged Precision = 0.566
+Micro-Averaged Recall = 0.304
+Micro-Averaged F1-Score = 0.395
+Macro-Averaged Precision = 0.446
+Macro-Averaged Recall = 0.271
+Macro-Averaged F1-Score = 0.337
+
+Time: 2083818 ms  
+
+
+Execution starts for the dataset OHSUMED-F.arff
+with NumInstances = 13529 and numLabels = 23
+for the GOOWE number 3
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 40845344
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 41635632
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 42440376
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 43482272
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 44541984
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 45526880
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 46374008
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 47401816
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 48421904
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 49371984
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 49341368
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 49112272
+Change model 1 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 49270088
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 49346840
+Change model 1 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 49415480
+Change model 7 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 49110688
+Change model 7 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 49266872
+Change model 6 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 49420168
+Change model 6 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 49412104
+Change model 3 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 49339512
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable)
+Performance Measurements:
+total examples: 12852
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records103.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records103_short.csv
+Window size: 676
+Number of windows: 19
+Incremental arraylist size: 12852
+Exact Match = 0.032
+Hamming Score = 0.843
+Example-Based Accuracy = 0.211
+Example-Based Precision = 0.249
+Example-Based Recall = 0.473
+Example-Based F-Score = 0.327
+Micro-Averaged Precision = 0.217
+Micro-Averaged Recall = 0.448
+Micro-Averaged F1-Score = 0.292
+Macro-Averaged Precision = 0.119
+Macro-Averaged Recall = 0.211
+Macro-Averaged F1-Score = 0.153
+
+Time: 446318 ms  
+
+
+Execution starts for the dataset OHSUMED-F.arff
+with NumInstances = 13529 and numLabels = 23
+for the GOOWE number 4
+Size of GOOWE with base classifier: ISOUP Tree MTR : 57154184
+Size of GOOWE with base classifier: ISOUP Tree MTR : 75463288
+Size of GOOWE with base classifier: ISOUP Tree MTR : 97504848
+Size of GOOWE with base classifier: ISOUP Tree MTR : 120578560
+Size of GOOWE with base classifier: ISOUP Tree MTR : 147177264
+Size of GOOWE with base classifier: ISOUP Tree MTR : 189467488
+Size of GOOWE with base classifier: ISOUP Tree MTR : 234469656
+Size of GOOWE with base classifier: ISOUP Tree MTR : 268625632
+Size of GOOWE with base classifier: ISOUP Tree MTR : 331596248
+Size of GOOWE with base classifier: ISOUP Tree MTR : 384017056
+Change model 9 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 421132344
+Change model 6 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 435411192
+Change model 9 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 481656216
+Change model 6 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 554730296
+Change model 8 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 583508072
+Change model 6 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 617619960
+Change model 6 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 655172288
+Change model 3 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 639717040
+Change model 3 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 687181584
+Change model 3 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 725885976
+GOOWE with base classifier: ISOUP Tree MTR
+Performance Measurements:
+total examples: 12852
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records104.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records104_short.csv
+Window size: 676
+Number of windows: 19
+Incremental arraylist size: 12852
+Exact Match = 0.004
+Hamming Score = 0.73
+Example-Based Accuracy = 0.175
+Example-Based Precision = 0.185
+Example-Based Recall = 0.709
+Example-Based F-Score = 0.293
+Micro-Averaged Precision = 0.168
+Micro-Averaged Recall = 0.691
+Micro-Averaged F1-Score = 0.27
+Macro-Averaged Precision = 0.131
+Macro-Averaged Recall = 0.391
+Macro-Averaged F1-Score = 0.196
+
+Time: 414803 ms  
+
+
+SLASHDOT-F.arff
+3782
+22
+Execution starts for the dataset SLASHDOT-F.arff
+with NumInstances = 3782 and numLabels = 22
+for the GOOWE number 1
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 40059184
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 67230056
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 94727496
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 122779864
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 150441664
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 180589688
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 209311416
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 237209208
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 264588032
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 292974152
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 293020328
+Change model 5 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 295827536
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 295423216
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 295386208
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 296317264
+Change model 3 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 294662320
+Change model 5 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 297864624
+Change model 7 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 300231128
+Change model 6 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 311882608
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 324730832
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0)
+Performance Measurements:
+total examples: 3592
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records105.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records105_short.csv
+Window size: 189
+Number of windows: 19
+Incremental arraylist size: 3592
+Exact Match = 0.0
+Hamming Score = 0.63
+Example-Based Accuracy = 0.107
+Example-Based Precision = 0.108
+Example-Based Recall = 0.812
+Example-Based F-Score = 0.191
+Micro-Averaged Precision = 0.107
+Micro-Averaged Recall = 0.799
+Micro-Averaged F1-Score = 0.188
+Macro-Averaged Precision = 0.135
+Macro-Averaged Recall = 0.438
+Macro-Averaged F1-Score = 0.207
+
+Time: 606925 ms  
+
+
+Execution starts for the dataset SLASHDOT-F.arff
+with NumInstances = 3782 and numLabels = 22
+for the GOOWE number 2
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 40194496
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 67504872
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 95148376
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 123358648
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 151167424
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 181466240
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 210342592
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 238388832
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 265913048
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 294459344
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 294512464
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 296344096
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 297378600
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 297724064
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 300126960
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 301143472
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 305890024
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 311887728
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 323622344
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 346379264
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0)
+Performance Measurements:
+total examples: 3592
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records106.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records106_short.csv
+Window size: 189
+Number of windows: 19
+Incremental arraylist size: 3592
+Exact Match = 0.066
+Hamming Score = 0.948
+Example-Based Accuracy = 0.076
+Example-Based Precision = 0.084
+Example-Based Recall = 0.078
+Example-Based F-Score = 0.081
+Micro-Averaged Precision = 0.637
+Micro-Averaged Recall = 0.073
+Micro-Averaged F1-Score = 0.131
+Macro-Averaged Precision = 0.309
+Macro-Averaged Recall = 0.05
+Macro-Averaged F1-Score = 0.085
+
+Time: 613021 ms  
+
+
+Execution starts for the dataset SLASHDOT-F.arff
+with NumInstances = 3782 and numLabels = 22
+for the GOOWE number 3
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 14474880
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 15308416
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 16221248
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 17225872
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 18065064
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 19154504
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 20165416
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 21096032
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 22026160
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 23125456
+Change model 1 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 23237504
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 22996520
+Change model 7 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 22996072
+Change model 1 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 23082016
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 23159632
+Change model 6 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 22996080
+Change model 4 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 23238888
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 23240504
+Change model 1 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 23240488
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 23404456
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable)
+Performance Measurements:
+total examples: 3592
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records107.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records107_short.csv
+Window size: 189
+Number of windows: 19
+Incremental arraylist size: 3592
+Exact Match = 0.119
+Hamming Score = 0.859
+Example-Based Accuracy = 0.28
+Example-Based Precision = 0.291
+Example-Based Recall = 0.594
+Example-Based F-Score = 0.39
+Micro-Averaged Precision = 0.206
+Micro-Averaged Recall = 0.567
+Micro-Averaged F1-Score = 0.302
+Macro-Averaged Precision = 0.142
+Macro-Averaged Recall = 0.29
+Macro-Averaged F1-Score = 0.191
+
+Time: 138576 ms  
+
+
+Execution starts for the dataset SLASHDOT-F.arff
+with NumInstances = 3782 and numLabels = 22
+for the GOOWE number 4
+Size of GOOWE with base classifier: ISOUP Tree MTR : 18830752
+Size of GOOWE with base classifier: ISOUP Tree MTR : 26975136
+Size of GOOWE with base classifier: ISOUP Tree MTR : 35439176
+Size of GOOWE with base classifier: ISOUP Tree MTR : 43962208
+Size of GOOWE with base classifier: ISOUP Tree MTR : 52509704
+Size of GOOWE with base classifier: ISOUP Tree MTR : 61208976
+Size of GOOWE with base classifier: ISOUP Tree MTR : 70029080
+Size of GOOWE with base classifier: ISOUP Tree MTR : 78644896
+Size of GOOWE with base classifier: ISOUP Tree MTR : 87205528
+Size of GOOWE with base classifier: ISOUP Tree MTR : 95826840
+Change model 2 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 95908432
+Change model 2 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 96422736
+Change model 6 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 96257952
+Change model 1 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 96212800
+Change model 4 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 96086208
+Change model 7 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 96023656
+Change model 9 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 90249016
+Change model 4 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 95057744
+Change model 5 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 98689320
+Change model 8 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 95594144
+GOOWE with base classifier: ISOUP Tree MTR
+Performance Measurements:
+total examples: 3592
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records108.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records108_short.csv
+Window size: 189
+Number of windows: 19
+Incremental arraylist size: 3592
+Exact Match = 0.0
+Hamming Score = 0.638
+Example-Based Accuracy = 0.106
+Example-Based Precision = 0.107
+Example-Based Recall = 0.778
+Example-Based F-Score = 0.188
+Micro-Averaged Precision = 0.105
+Micro-Averaged Recall = 0.766
+Micro-Averaged F1-Score = 0.185
+Macro-Averaged Precision = 0.062
+Macro-Averaged Recall = 0.404
+Macro-Averaged F1-Score = 0.108
+
+Time: 89290 ms  
+
+
+REUTERS-K500-EX2.arff
+6000
+103
+Execution starts for the dataset REUTERS-K500-EX2.arff
+with NumInstances = 6000 and numLabels = 103
+for the GOOWE number 1
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 70659664
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 126664072
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 185175008
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 242054544
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 302185528
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 363788280
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 422599064
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 481867744
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 541805224
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 601908016
+Change model 7 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 638603312
+Change model 7 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 701503128
+Change model 7 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 762872456
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 855917696
+Change model 7 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 942285520
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 1019645144
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 1085108416
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 1162488976
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 1180750680
+Change model 7 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 1184717896
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0)
+Performance Measurements:
+total examples: 5699
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records109.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records109_short.csv
+Window size: 300
+Number of windows: 18
+Incremental arraylist size: 5699
+Exact Match = 0.0
+Hamming Score = 0.711
+Example-Based Accuracy = 0.04
+Example-Based Precision = 0.04
+Example-Based Recall = 0.871
+Example-Based F-Score = 0.077
+Micro-Averaged Precision = 0.04
+Micro-Averaged Recall = 0.84
+Micro-Averaged F1-Score = 0.076
+Macro-Averaged Precision = 0.032
+Macro-Averaged Recall = 0.398
+Macro-Averaged F1-Score = 0.058
+
+Time: 2294986 ms  
+
+
+Execution starts for the dataset REUTERS-K500-EX2.arff
+with NumInstances = 6000 and numLabels = 103
+for the GOOWE number 2
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 76248792
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 137164008
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 201092520
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 263055360
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 328823304
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 396316616
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 460470256
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 525189976
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 590695312
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 656251992
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 658868952
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 695659112
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 757764440
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 845542808
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 937073928
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 1020314896
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 1091264672
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 1204930544
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 1295351072
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 1335957960
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0)
+Performance Measurements:
+total examples: 5699
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records110.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records110_short.csv
+Window size: 300
+Number of windows: 18
+Incremental arraylist size: 5699
+Exact Match = 0.009
+Hamming Score = 0.986
+Example-Based Accuracy = 0.014
+Example-Based Precision = 0.015
+Example-Based Recall = 0.017
+Example-Based F-Score = 0.016
+Micro-Averaged Precision = 0.377
+Micro-Averaged Recall = 0.015
+Micro-Averaged F1-Score = 0.029
+Macro-Averaged Precision = 0.156
+Macro-Averaged Recall = 0.007
+Macro-Averaged F1-Score = 0.014
+
+Time: 2420903 ms  
+
+
+Execution starts for the dataset REUTERS-K500-EX2.arff
+with NumInstances = 6000 and numLabels = 103
+for the GOOWE number 3
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 11311136
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 11827880
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 12311864
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 12800096
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 13257576
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 13757136
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 14335984
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 14924440
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 15435296
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 15994872
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 16084888
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 16162136
+Change model 7 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 16082776
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 16049056
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 16089656
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 16091280
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 16089752
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 15938016
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 15938808
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 16014232
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable)
+Performance Measurements:
+total examples: 5699
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records111.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records111_short.csv
+Window size: 300
+Number of windows: 18
+Incremental arraylist size: 5699
+Exact Match = 0.029
+Hamming Score = 0.955
+Example-Based Accuracy = 0.161
+Example-Based Precision = 0.169
+Example-Based Recall = 0.488
+Example-Based F-Score = 0.251
+Micro-Averaged Precision = 0.136
+Micro-Averaged Recall = 0.408
+Micro-Averaged F1-Score = 0.204
+Macro-Averaged Precision = 0.046
+Macro-Averaged Recall = 0.141
+Macro-Averaged F1-Score = 0.069
+
+Time: 110778 ms  
+
+
+Execution starts for the dataset REUTERS-K500-EX2.arff
+with NumInstances = 6000 and numLabels = 103
+for the GOOWE number 4
+Size of GOOWE with base classifier: ISOUP Tree MTR : 49217480
+Size of GOOWE with base classifier: ISOUP Tree MTR : 101391768
+Size of GOOWE with base classifier: ISOUP Tree MTR : 166902776
+Size of GOOWE with base classifier: ISOUP Tree MTR : 237303128
+Size of GOOWE with base classifier: ISOUP Tree MTR : 318880136
+Size of GOOWE with base classifier: ISOUP Tree MTR : 405286056
+Size of GOOWE with base classifier: ISOUP Tree MTR : 496060360
+Size of GOOWE with base classifier: ISOUP Tree MTR : 600187080
+Size of GOOWE with base classifier: ISOUP Tree MTR : 703517040
+Size of GOOWE with base classifier: ISOUP Tree MTR : 805761600
+Change model 3 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 740487952
+Change model 6 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 706790792
+Change model 7 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 670940184
+Change model 9 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 742923672
+Change model 9 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 742659816
+Change model 8 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 721364944
+Change model 2 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 778464608
+Change model 6 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 813254952
+Change model 4 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 844866848
+Change model 9 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 872402248
+GOOWE with base classifier: ISOUP Tree MTR
+Performance Measurements:
+total examples: 5699
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records112.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records112_short.csv
+Window size: 300
+Number of windows: 18
+Incremental arraylist size: 5699
+Exact Match = 0.0
+Hamming Score = 0.721
+Example-Based Accuracy = 0.04
+Example-Based Precision = 0.04
+Example-Based Recall = 0.849
+Example-Based F-Score = 0.077
+Micro-Averaged Precision = 0.04
+Micro-Averaged Recall = 0.817
+Micro-Averaged F1-Score = 0.077
+Macro-Averaged Precision = 0.021
+Macro-Averaged Recall = 0.336
+Macro-Averaged F1-Score = 0.04
+
+Time: 403293 ms  
+
+
+A-TMC7-REDU-X2-500.arff
+28596
+22
+Execution starts for the dataset A-TMC7-REDU-X2-500.arff
+with NumInstances = 28596 and numLabels = 22
+for the GOOWE number 1
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 55626368
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 87612568
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 121941544
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 157460968
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 209499000
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 262670480
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 320325552
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 384697656
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 457264584
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 534227480
+Change model 7 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 579471616
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 618054152
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 655469744
+Change model 5 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 667656208
+Change model 5 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 720543136
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 755576160
+Change model 3 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 739410000
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 788922944
+Change model 3 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 842224568
+Change model 3 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 886079936
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0)
+Performance Measurements:
+total examples: 27166
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records113.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records113_short.csv
+Window size: 1429
+Number of windows: 19
+Incremental arraylist size: 27166
+Exact Match = 0.094
+Hamming Score = 0.886
+Example-Based Accuracy = 0.455
+Example-Based Precision = 0.492
+Example-Based Recall = 0.838
+Example-Based F-Score = 0.62
+Micro-Averaged Precision = 0.455
+Micro-Averaged Recall = 0.813
+Micro-Averaged F1-Score = 0.584
+Macro-Averaged Precision = 0.427
+Macro-Averaged Recall = 0.612
+Macro-Averaged F1-Score = 0.503
+
+Time: 1843229 ms  
+
+
+Execution starts for the dataset A-TMC7-REDU-X2-500.arff
+with NumInstances = 28596 and numLabels = 22
+for the GOOWE number 2
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 56202264
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 87891808
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 123288800
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 159612248
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 213312208
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 267229080
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 323638928
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 390511992
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 464810776
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 543961144
+Change model 7 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 587983616
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 584951040
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 618848680
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 659711984
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 714415568
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 749090768
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 786599968
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 835136320
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 888852304
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 933033264
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0)
+Performance Measurements:
+total examples: 27166
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records114.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records114_short.csv
+Window size: 1429
+Number of windows: 19
+Incremental arraylist size: 27166
+Exact Match = 0.188
+Hamming Score = 0.918
+Example-Based Accuracy = 0.518
+Example-Based Precision = 0.6
+Example-Based Recall = 0.762
+Example-Based F-Score = 0.671
+Micro-Averaged Precision = 0.565
+Micro-Averaged Recall = 0.726
+Micro-Averaged F1-Score = 0.636
+Macro-Averaged Precision = 0.503
+Macro-Averaged Recall = 0.506
+Macro-Averaged F1-Score = 0.504
+
+Time: 1915948 ms  
+
+
+Execution starts for the dataset A-TMC7-REDU-X2-500.arff
+with NumInstances = 28596 and numLabels = 22
+for the GOOWE number 3
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 42531896
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 43253784
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 44058808
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 44836776
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 45628128
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 46522256
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 47421248
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 48322928
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 49121128
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 50116400
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 50342496
+Change model 4 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 50329744
+Change model 4 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 50331304
+Change model 7 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 50297936
+Change model 3 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 50275464
+Change model 5 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 50054752
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 50044976
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 49952920
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 49903968
+Change model 9 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 50007096
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable)
+Performance Measurements:
+total examples: 27166
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records115.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records115_short.csv
+Window size: 1429
+Number of windows: 19
+Incremental arraylist size: 27166
+Exact Match = 0.027
+Hamming Score = 0.842
+Example-Based Accuracy = 0.307
+Example-Based Precision = 0.375
+Example-Based Recall = 0.645
+Example-Based F-Score = 0.475
+Micro-Averaged Precision = 0.336
+Micro-Averaged Recall = 0.626
+Micro-Averaged F1-Score = 0.437
+Macro-Averaged Precision = 0.134
+Macro-Averaged Recall = 0.243
+Macro-Averaged F1-Score = 0.173
+
+Time: 172945 ms  
+
+
+Execution starts for the dataset A-TMC7-REDU-X2-500.arff
+with NumInstances = 28596 and numLabels = 22
+for the GOOWE number 4
+Size of GOOWE with base classifier: ISOUP Tree MTR : 46439896
+Size of GOOWE with base classifier: ISOUP Tree MTR : 52235512
+Size of GOOWE with base classifier: ISOUP Tree MTR : 60096376
+Size of GOOWE with base classifier: ISOUP Tree MTR : 70637992
+Size of GOOWE with base classifier: ISOUP Tree MTR : 82300216
+Size of GOOWE with base classifier: ISOUP Tree MTR : 97864512
+Size of GOOWE with base classifier: ISOUP Tree MTR : 112031224
+Size of GOOWE with base classifier: ISOUP Tree MTR : 124328144
+Size of GOOWE with base classifier: ISOUP Tree MTR : 140647296
+Size of GOOWE with base classifier: ISOUP Tree MTR : 155181984
+Change model 9 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 165834960
+Change model 9 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 173951152
+Change model 4 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 178265200
+Change model 8 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 194455352
+Change model 8 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 212200656
+Change model 8 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 226599968
+Change model 7 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 231188912
+Change model 4 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 231664504
+Change model 7 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 242523088
+Change model 4 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 254093112
+GOOWE with base classifier: ISOUP Tree MTR
+Performance Measurements:
+total examples: 27166
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records116.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records116_short.csv
+Window size: 1429
+Number of windows: 19
+Incremental arraylist size: 27166
+Exact Match = 0.006
+Hamming Score = 0.822
+Example-Based Accuracy = 0.304
+Example-Based Precision = 0.333
+Example-Based Recall = 0.742
+Example-Based F-Score = 0.46
+Micro-Averaged Precision = 0.32
+Micro-Averaged Recall = 0.723
+Micro-Averaged F1-Score = 0.444
+Macro-Averaged Precision = 0.31
+Macro-Averaged Recall = 0.347
+Macro-Averaged F1-Score = 0.327
+
+Time: 329434 ms  
+
+
+ENRON-F.arff
+1702
+53
+Execution starts for the dataset ENRON-F.arff
+with NumInstances = 1702 and numLabels = 53
+for the GOOWE number 1
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 61937216
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 121566424
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 186387488
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 251681560
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 314029904
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 374636968
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 434433624
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 496154184
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 560566904
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 626400440
+Change model 3 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 631728192
+Change model 5 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 633477024
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 637591480
+Change model 6 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 636686680
+Change model 1 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 637935272
+Change model 4 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 634680056
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 637545416
+Change model 1 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 640234984
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 637769992
+Change model 5 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 636866408
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0)
+Performance Measurements:
+total examples: 1616
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records117.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records117_short.csv
+Window size: 85
+Number of windows: 19
+Incremental arraylist size: 1616
+Exact Match = 0.0
+Hamming Score = 0.831
+Example-Based Accuracy = 0.236
+Example-Based Precision = 0.262
+Example-Based Recall = 0.731
+Example-Based F-Score = 0.386
+Micro-Averaged Precision = 0.238
+Micro-Averaged Recall = 0.712
+Micro-Averaged F1-Score = 0.357
+Macro-Averaged Precision = 0.093
+Macro-Averaged Recall = 0.231
+Macro-Averaged F1-Score = 0.133
+
+Time: 794081 ms  
+
+
+Execution starts for the dataset ENRON-F.arff
+with NumInstances = 1702 and numLabels = 53
+for the GOOWE number 2
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 63020952
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 123938296
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 190232984
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 257066312
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 320835984
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 382793248
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 443883576
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 507012984
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 572924744
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 640307488
+Change model 3 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 645759080
+Change model 5 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 647488816
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 651726272
+Change model 6 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 650774688
+Change model 1 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 652123312
+Change model 8 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 650140536
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 652960640
+Change model 1 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 655801512
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 654386552
+Change model 5 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0) : 652942024
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -S 0 -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0)
+Performance Measurements:
+total examples: 1616
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records118.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records118_short.csv
+Window size: 85
+Number of windows: 19
+Incremental arraylist size: 1616
+Exact Match = 0.028
+Hamming Score = 0.933
+Example-Based Accuracy = 0.352
+Example-Based Precision = 0.507
+Example-Based Recall = 0.492
+Example-Based F-Score = 0.499
+Micro-Averaged Precision = 0.493
+Micro-Averaged Recall = 0.48
+Micro-Averaged F1-Score = 0.487
+Macro-Averaged Precision = 0.091
+Macro-Averaged Recall = 0.099
+Macro-Averaged F1-Score = 0.095
+
+Time: 804859 ms  
+
+
+Execution starts for the dataset ENRON-F.arff
+with NumInstances = 1702 and numLabels = 53
+for the GOOWE number 3
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 7406248
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 7909912
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 8718264
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 9453264
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 10313368
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 11027056
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 11683608
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 12354160
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 13191056
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 14047480
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 14250088
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 14115912
+Change model 1 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 14277896
+Change model 2 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 14367488
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 14546328
+Change model 5 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 14441336
+Change model 0 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 14502784
+Change model 3 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 14324248
+Change model 3 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 14400296
+Change model 6 !
+Size of GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable) : 14331840
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable)
+Performance Measurements:
+total examples: 1616
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records119.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records119_short.csv
+Window size: 85
+Number of windows: 19
+Incremental arraylist size: 1616
+Exact Match = 0.046
+Hamming Score = 0.906
+Example-Based Accuracy = 0.318
+Example-Based Precision = 0.4
+Example-Based Recall = 0.581
+Example-Based F-Score = 0.474
+Micro-Averaged Precision = 0.361
+Micro-Averaged Recall = 0.553
+Micro-Averaged F1-Score = 0.437
+Macro-Averaged Precision = 0.113
+Macro-Averaged Recall = 0.151
+Macro-Averaged F1-Score = 0.129
+
+Time: 41980 ms  
+
+
+Execution starts for the dataset ENRON-F.arff
+with NumInstances = 1702 and numLabels = 53
+for the GOOWE number 4
+Size of GOOWE with base classifier: ISOUP Tree MTR : 13656912
+Size of GOOWE with base classifier: ISOUP Tree MTR : 32816008
+Size of GOOWE with base classifier: ISOUP Tree MTR : 51507264
+Size of GOOWE with base classifier: ISOUP Tree MTR : 71249448
+Size of GOOWE with base classifier: ISOUP Tree MTR : 89882232
+Size of GOOWE with base classifier: ISOUP Tree MTR : 108997536
+Size of GOOWE with base classifier: ISOUP Tree MTR : 127869960
+Size of GOOWE with base classifier: ISOUP Tree MTR : 147401336
+Size of GOOWE with base classifier: ISOUP Tree MTR : 166505440
+Size of GOOWE with base classifier: ISOUP Tree MTR : 185562176
+Change model 2 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 185545368
+Change model 5 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 185563448
+Change model 1 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 185374680
+Change model 2 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 185260960
+Change model 4 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 185255728
+Change model 8 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 182220280
+Change model 5 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 185190696
+Change model 6 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 178564648
+Change model 1 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 186272488
+Change model 9 !
+Size of GOOWE with base classifier: ISOUP Tree MTR : 187958264
+GOOWE with base classifier: ISOUP Tree MTR
+Performance Measurements:
+total examples: 1616
+we re here:
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records120.csv
+/primary/workspaceAlican/MultiLabelGOOWE/output/final-results/records120_short.csv
+Window size: 85
+Number of windows: 19
+Incremental arraylist size: 1616
+Exact Match = 0.0
+Hamming Score = 0.816
+Example-Based Accuracy = 0.22
+Example-Based Precision = 0.235
+Example-Based Recall = 0.773
+Example-Based F-Score = 0.361
+Micro-Averaged Precision = 0.229
+Micro-Averaged Recall = 0.758
+Micro-Averaged F1-Score = 0.352
+Macro-Averaged Precision = 0.061
+Macro-Averaged Recall = 0.233
+Macro-Averaged F1-Score = 0.097
+
+Time: 113726 ms  
+
+

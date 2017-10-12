@@ -1,0 +1,16 @@
+Incremental on-line bagging of Oza and Russell.
+Exact Match = 0.117
+Hamming Score = 0.918
+Example-Based Accuracy = 0.18
+Example-Based Precision = 0.261
+Example-Based Recall = 0.181
+Example-Based F-Score = 0.213
+Micro-Averaged Precision = 0.349
+Micro-Averaged Recall = 0.157
+Micro-Averaged F1-Score = 0.216
+Macro-Averaged Precision = 0.105
+Macro-Averaged Recall = 0.067
+Macro-Averaged F1-Score = 0.082
+Time: 291550 ms  
+
+Size of the model: 8547192 bytes

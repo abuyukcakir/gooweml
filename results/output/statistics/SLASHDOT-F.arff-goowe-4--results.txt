@@ -1,0 +1,16 @@
+GOOWE with base classifier: ISOUP Tree MTR
+Exact Match = 0.0
+Hamming Score = 0.638
+Example-Based Accuracy = 0.106
+Example-Based Precision = 0.107
+Example-Based Recall = 0.778
+Example-Based F-Score = 0.188
+Micro-Averaged Precision = 0.105
+Micro-Averaged Recall = 0.766
+Micro-Averaged F1-Score = 0.185
+Macro-Averaged Precision = 0.062
+Macro-Averaged Recall = 0.404
+Macro-Averaged F1-Score = 0.108
+Time: 89290 ms  
+
+Size of the model: 95594088 bytes
