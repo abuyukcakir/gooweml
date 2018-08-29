@@ -1,0 +1,16 @@
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree -- -L 2 -S 1 -E 1.0E-7 -H 0.05 -M 0.01 -G 200.0 -N 0.0)
+Exact Match = 0.096
+Hamming Score = 0.886
+Example-Based Accuracy = 0.457
+Example-Based Precision = 0.495
+Example-Based Recall = 0.84
+Example-Based F-Score = 0.623
+Micro-Averaged Precision = 0.456
+Micro-Averaged Recall = 0.814
+Micro-Averaged F1-Score = 0.584
+Macro-Averaged Precision = 0.422
+Macro-Averaged Recall = 0.613
+Macro-Averaged F1-Score = 0.5
+Time: 1941734 ms  
+
+Size of the model: 780578456 bytes

@@ -1,0 +1,16 @@
+GOOWE with base classifier: multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -P 0 -N 0 -S 0 -W weka.classifiers.bayes.NaiveBayesUpdateable)
+Exact Match = 0.049
+Hamming Score = 0.854
+Example-Based Accuracy = 0.327
+Example-Based Precision = 0.395
+Example-Based Recall = 0.626
+Example-Based F-Score = 0.485
+Micro-Averaged Precision = 0.355
+Micro-Averaged Recall = 0.601
+Micro-Averaged F1-Score = 0.447
+Macro-Averaged Precision = 0.214
+Macro-Averaged Recall = 0.24
+Macro-Averaged F1-Score = 0.226
+Time: 181539 ms  
+
+Size of the model: 41876968 bytes
