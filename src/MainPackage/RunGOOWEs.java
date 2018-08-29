@@ -32,12 +32,10 @@ import moa.classifiers.Classifier;
 
 public class RunGOOWEs {
 
-    public static int numberOfWindows = 20;
-
     public static void main(String[] args) throws IOException {
         if (args.length != 4) {
             System.out.println("Missing or extra arguments. The arguments should be of the following form:\n" +
-                    "datasetLocation numberOfInstances numberOfLabels algorithmID.\n" +
+                    "datasetLocation numberOfLabels windowSize algorithmID.\n" +
                     "Algorithm IDs are as follows:\n" +
                     "1. GOOWE-BR\n" +
                     "2. GOOWE-CC\n" +
@@ -47,60 +45,45 @@ public class RunGOOWEs {
         } else {
             //get the dataset name (or location) as argument
             String dataset = args[0];
-            int numInstances = Integer.parseInt(args[1]);
-            int numLabels = Integer.parseInt(args[2]);
+            int numLabels = Integer.parseInt(args[1]);
+            int windowSize = Integer.parseInt(args[2]);
             int algorithmIndex = Integer.parseInt(args[3]);
 
+            File datasetFile = new File(dataset);
+            String datasetFileName = datasetFile.getName();
+
             System.out.println("Execution starts for the dataset " + dataset + "\n" +
-                    "with NumInstances = " + numInstances + " and numLabels = " + numLabels + "\n" +
+                    "with numLabels = " + numLabels + "\n" +
+                    "and windowSize = " + windowSize + "\n" +
                     "for the GOOWE number " + algorithmIndex);
 
-            String outdir = "output//statistics//" + dataset + "-goowe-" + algorithmIndex + "-";
-//        File directory = new File(dir);
+            String outdir = "output//statistics//" + datasetFileName + "-goowe-" + algorithmIndex + "-";
             String outFileName = outdir + "-results" + ".txt";
             BufferedWriter writer = new BufferedWriter(new FileWriter(new File(outFileName)));
             StringBuilder out;
 
             // Initialize the learners.
-            GOOWEML gooweml_mlht = new GOOWEML();
-            gooweml_mlht.baseLearnerOption.setValueViaCLIString("multilabel.MultilabelHoeffdingTree -a multilabel.MajorityLabelset");
-
-            GOOWEML gooweml_br = new GOOWEML();
-            gooweml_br.baseLearnerOption.setValueViaCLIString("multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree)");
-
-            GOOWEML gooweml_cc = new GOOWEML();
-            gooweml_cc.baseLearnerOption.setValueViaCLIString("multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -W weka.classifiers.trees.HoeffdingTree)");
-
-            GOOWEML gooweml_ps = new GOOWEML();
-            gooweml_ps.baseLearnerOption.setValueViaCLIString("multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -W weka.classifiers.bayes.NaiveBayesUpdateable)");
-
-            GOOWEML gooweml_isoup = new GOOWEML();
-            gooweml_isoup.isIsoup = true;
-
-            List<MultiLabelLearner> classifiers = new ArrayList<>();
-
-            classifiers.add(gooweml_mlht);
-
-            classifiers.add(gooweml_br);
-            classifiers.add(gooweml_cc);
-            classifiers.add(gooweml_ps);
-            classifiers.add(gooweml_isoup);
+            GOOWEML learner = new GOOWEML();
+            if(algorithmIndex == 1){
+                learner.baseLearnerOption.setValueViaCLIString("multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.BRUpdateable -W weka.classifiers.trees.HoeffdingTree)");
+            }
+            else if(algorithmIndex == 2){
+                learner.baseLearnerOption.setValueViaCLIString("multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.CCUpdateable -W weka.classifiers.trees.HoeffdingTree)");
+            }
+            else if(algorithmIndex == 3){
+                learner.baseLearnerOption.setValueViaCLIString("multilabel.MEKAClassifier -l (meka.classifiers.multilabel.incremental.PSUpdateable -I 100 -S 10 -W weka.classifiers.bayes.NaiveBayesUpdateable)");
+            }
+            else{
+                learner.isIsoup = true;
+            }
+//            GOOWEML gooweml_mlht = new GOOWEML();
+//            gooweml_mlht.baseLearnerOption.setValueViaCLIString("multilabel.MultilabelHoeffdingTree -a multilabel.MajorityLabelset");
 
             MultiTargetArffFileStream stream = new MultiTargetArffFileStream(dataset, numLabels + "");
             stream.prepareForUse();
 
-//            MultiLabelLearner learner = classifiers.get(algorithmIndex);
-            //prepare the learner
-//            stream.restart();
-
-            GOOWEML learner = gooweml_cc;
-
-
             learner.setModelContext(stream.getHeader());
             learner.prepareForUse();
-
-            int windowSize = numInstances / numberOfWindows;
-//            int windowSize = 1000;      //for imdb
 
             //prepare the learner
             ((GOOWEML)learner).setWindowSize(windowSize);
@@ -115,7 +98,7 @@ public class RunGOOWEs {
             long starttime, endtime;
             starttime = System.currentTimeMillis();
 
-            while (stream.hasMoreInstances() && index < numInstances) {
+            while (stream.hasMoreInstances()){// && index < numInstances) {
                 InstanceExample instanceEx = stream.nextInstance();
                 Instance instance = instanceEx.getData();
 

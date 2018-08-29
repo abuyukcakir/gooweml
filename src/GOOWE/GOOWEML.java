@@ -13,6 +13,17 @@ import moa.core.Utils;
  */
 public class GOOWEML extends GOOWE implements MultiLabelLearner, MultiTargetRegressor {
 
+    public GOOWEML(){
+        super();
+//        this.outputFileName = "";
+//        try {
+//            output = new BufferedWriter(new FileWriter("goowe-out.txt", false));
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
+
+    }
+
     @Override
     public void setWindowSize(int windowSize) {
         super.setWindowSize(windowSize);
@@ -57,16 +68,17 @@ public class GOOWEML extends GOOWE implements MultiLabelLearner, MultiTargetRegr
 
         double[] votes = getVotesForInstance(multiLabelInstance);
 
-//        System.out.println("GOOWEML --- Votes: ");
-//        for (int i = 0; i < votes.length; i++) {
-//            System.out.print(votes[i] +", ");
-//        }
-//        System.out.println();
-
         //OLD
-        if(votes != null || votes.length == 0) {
+        if(votes != null || votes.length > 0) {
+
             votes = normalizeVotes(votes);
+//            System.out.println(votes.length);
         }
+        else{
+            System.out.println("votes null or length 0");
+        }
+
+//        System.out.println("GOOWEML --- Votes: ");
 
 
         double threshold = 1.0 / numberOfLabels;
@@ -80,11 +92,6 @@ public class GOOWEML extends GOOWE implements MultiLabelLearner, MultiTargetRegr
 //        System.out.println();
 
         // END OLD
-
-//
-//        System.out.println("Result prediction's votes:");
-//        System.out.println(result.toString());
-
         return result;
     }
 

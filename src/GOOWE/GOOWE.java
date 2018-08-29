@@ -21,7 +21,7 @@ import moa.tasks.TaskMonitor;
 
 /**
  *
- * @author Hamed R. Bonab
+ * @author Hamed R. Bonab, Alican Büyükçakır
  *  Date 17 March 2017
  *
  *  @author Alican Büyükçakır
@@ -56,7 +56,7 @@ public class GOOWE extends AbstractClassifier{
     int candidateIndex;
 
     public GOOWE(){
-        fixedWindowPeriod = 50;     //default
+        fixedWindowPeriod = 100;     //default
         isIsoup = false;
 
     }
@@ -149,7 +149,7 @@ public class GOOWE extends AbstractClassifier{
                 allZero=false;
         }
 
-        if(allZero){ // all the votes are equal to zero
+        if(allZero || votes.length == 0){ // all the votes are equal to zero
 
             double equalVote = 1.0/numberOfLabels;
             for(int i=0; i<numberOfLabels; i++){
@@ -177,10 +177,11 @@ public class GOOWE extends AbstractClassifier{
         }
 
         newClassifier.setModelContext(this.getModelContext());
-//        newClassifier.resetLearning();
-        Classifier temp = newClassifier.copy();
 
-//        newClassifier.prepareForUse();        // this fucks things up
+        if(isIsoup)
+            newClassifier.resetLearning();      // leave this here. or isoup crashes
+
+        Classifier temp = newClassifier.copy();
 
         //train new classifier on this new chunk
         for(int i=fixedWindowPeriod; i>0; i--){
@@ -212,7 +213,7 @@ public class GOOWE extends AbstractClassifier{
                 glob_weight[i] = newWeights[i];
             }
 
-            System.out.println("Weights:");
+//            System.out.println("Weights:");
             for (int i = 0; i < glob_weight.length; i++) {
                 System.out.print(glob_weight[i] + ", ");
             }
@@ -227,7 +228,7 @@ public class GOOWE extends AbstractClassifier{
             //find minimum weight
             candidateIndex = 0;
 
-            System.out.println("Weights:");
+//            System.out.println("Weights:");
             for (int i = 0; i < glob_weight.length; i++) {
                 System.out.print(glob_weight[i] + ", ");
             }
@@ -276,7 +277,7 @@ public class GOOWE extends AbstractClassifier{
     
     @Override
     public double[] getVotesForInstance(Instance instnc) {
-        DoubleVector combinedVote = new DoubleVector();        
+        DoubleVector combinedVote = new DoubleVector();
         double[] hypo_weight = glob_weight;
         
         for (int i = 0; i < curNumOfHypo; i++) {
@@ -310,6 +311,14 @@ public class GOOWE extends AbstractClassifier{
 //                combinedVote.addValues(vote);
 //            }
         }
+//        if(combinedVote.numValues() == 0)
+//        {
+//            double[] equalVotes = new double[numberOfLabels];
+//            for (int i = 0; i < equalVotes.length; i++) {
+//                equalVotes[i] = 1.0 / numberOfLabels;
+//            }
+//            combinedVote.addValues(equalVotes);
+//        }
 
         return combinedVote.getArrayRef();
     }
