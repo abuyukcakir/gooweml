@@ -30,7 +30,7 @@ Create the following directories in the same directory as your jar files:
 
 The jar file will generate window-based evaluations of the models (in detailed and short formats) in the former; overall results wrt many metrics in the latter.
 
-Run the experiments in the following format:
+Run the experiments in the following format (arrange the virtual memory size according to your config.):
 
 ```shell
 java -jar -Xmx32G -javaagent:sizeofag.jar Model.jar Dataset.arff NumLabels BatchSize AlgorithmNo
@@ -42,7 +42,7 @@ For instance, WLOG, for the dataset 20NG, run the experiments as:
 * For GOOWE-ML-based ensembles:
 
 ```shell
-java -jar -Xmx15G -javaagent:sizeofag.jar RunGOOWEs.jar 20NG-F.arff 20 1000 ${j}
+java -jar -Xmx32G -javaagent:sizeofag.jar RunGOOWEs.jar 20NG-F.arff 20 1000 ${j}
 ```
 
 where j = 1 to 4 corresponds to [GOBR, GOCC, GOPS, GORT].
@@ -50,7 +50,7 @@ where j = 1 to 4 corresponds to [GOBR, GOCC, GOPS, GORT].
 * For the baselines:
 
 ```shell
-java -jar -Xmx15G -javaagent:sizeofag.jar RunClassifiers.jar 20NG-F.arff 20 1000 ${j}
+java -jar -Xmx32G -javaagent:sizeofag.jar RunClassifiers.jar 20NG-F.arff 20 1000 ${j}
 ```
 
 where j = 1 to 7 corresponds to [EBR, ECC, EPS, EBRT, EaBR, EaCC, EaPS].
