@@ -45,7 +45,7 @@ For instance, WLOG, for the dataset 20NG, run the experiments as:
 java -jar -Xmx32G -javaagent:sizeofag.jar RunGOOWEs.jar 20NG-F.arff 20 1000 ${j}
 ```
 
-where j = 1 to 4 corresponds to [GOBR, GOCC, GOPS, GORT].
+where ${j} = 1 to 4 corresponds to [GOBR, GOCC, GOPS, GORT].
 
 * For the baselines:
 
@@ -53,5 +53,5 @@ where j = 1 to 4 corresponds to [GOBR, GOCC, GOPS, GORT].
 java -jar -Xmx32G -javaagent:sizeofag.jar RunClassifiers.jar 20NG-F.arff 20 1000 ${j}
 ```
 
-where j = 1 to 7 corresponds to [EBR, ECC, EPS, EBRT, EaBR, EaCC, EaPS].
+where ${j} = 1 to 7 corresponds to [EBR, ECC, EPS, EBRT, EaBR, EaCC, EaPS].
 
