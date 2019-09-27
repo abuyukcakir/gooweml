@@ -55,3 +55,14 @@ java -jar -Xmx32G -javaagent:sizeofag.jar RunClassifiers.jar 20NG-F.arff 20 1000
 
 where ${j} = 1 to 7 corresponds to [EBR, ECC, EPS, EBRT, EaBR, EaCC, EaPS].
 
+#### To cite, use the following bibtex entry:
+```
+@inproceedings{buyukccakir2018novel,
+  title={A novel online stacked ensemble for multi-label stream classification},
+  author={B{\"u}y{\"u}k{\c{c}}ak{\i}r, Alican and Bonab, Hamed and Can, Fazli},
+  booktitle={Proceedings of the 27th ACM International Conference on Information and Knowledge Management},
+  pages={1063--1072},
+  year={2018},
+  organization={ACM}
+}
+
